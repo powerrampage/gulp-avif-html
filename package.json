@@ -1,0 +1,32 @@
+{
+	"name": "gulp-avif-html",
+	"version": "1.0.0",
+	"description": "Gulp extension, replace <img> to <picture> for AVIF support",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/powerrampage/gulp-avif-html.git"
+	},
+	"keywords": [
+		"gulp-avif-html",
+		"picture",
+		"avif",
+		"img-to-picture",
+		"gulp-plugin",
+		"html",
+		"html-tag-picture",
+		"type-avif"
+	],
+	"author": {
+		"name": "Shamsiyev Mironshox",
+		"email": "powerrampage8484@gmail.com",
+		"url": "https://t.me/powerrampage"
+	},
+	"license": "GPL-3.0",
+	"devDependencies": {
+		"gulp": "^4.0.2"
+	}
+}
